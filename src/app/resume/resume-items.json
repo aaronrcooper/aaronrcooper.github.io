@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Pantherx Rare Pharmacy",
+    "jobTitle": "Senior Software Engineer",
+    "duration": "Jan. 2022 - Current",
+    "descriptions": [
+      "Developed Angular Material app for form data management using NGRX store.",
+      "Created full-stack Analytics app with .NET Core MVC, Angular, Azure B2C, and Tableau APIs.",
+      "Implemented CI/CD pipelines and IaC for Angular and .NET Core applications.",
+      "Integrated Twilio for SMS communication with patients.",
+      "Built cross-platform mobile portal."
+    ]
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "jobTitle": "Software Engineer I",
+    "duration": "Sept. 2020 - Jan. 2022",
+    "descriptions": [
+      "Developed React TypeScript web app for inventory management.",
+      "Enhanced Android Kotlin app for online purchase flow using CQRS Spring Cloud backend.",
+      "Collaborated with store teams to create applications in React, TypeScript, C#, and SQL."
+    ]
+  },
+  {
+    "name": "Computer Enterprises Inc.",
+    "jobTitle": "Developer",
+    "duration": "May 2018 - September 2020",
+    "descriptions": [
+      "Built Angular web app for scout reports with autosave and theming features.",
+      "Implemented paywall functionality using Drupal CMS.",
+      "Generated data mappings for financial files using Entity Framework and SQL Server."
+    ]
+  }
+]
